@@ -8,7 +8,7 @@ Features the test theory and examples
 
 ### Failure vs error in the test suite
 | Failure | Error |
-|-------- | ----- |
+| :--------: | :-----: |
 |Tried to check behaviour and test is complete | At any point in the test |
 |An assertion failed | A non-assert exception was thrown |
 |The production code is probably broken | The test is probably broken |
