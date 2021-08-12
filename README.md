@@ -20,3 +20,6 @@ In unit testing the behaviour matters, not the implementation. Should not depend
 + @AfterAll - runs after all and also should use static fields.
 + @BeforeAll - runs at the begining and should use static fields
 
+### Hamcrest Matcher
+Matcher is a simple and general blob of logic used in assertions. Hamcrest matchers simplifies a test code and writes more useful asserts for more complicated assertions. In particular useful for Map checking. Matcher is compositional and combines with other matchers.
+
